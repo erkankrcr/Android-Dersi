@@ -25,6 +25,7 @@ public class LoginPage extends Activity {
         String[] arr = {"Medipol","ITU","ODTU"};
 /*
 ListAdapter adapter = new ArrayAdapter(this,R.layout.login_list_item,R.id.listTextView,arr);
+Dersteki Listview Örneğinin Adapteri
 
         Loginlist.setAdapter(adapter);
 
